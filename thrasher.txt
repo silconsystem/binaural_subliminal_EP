@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'MuseoModerno';
+  src: url('https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/MuseoModerno-Black.ttf');
+}
+@font-face {
+  font-family: 'Deranian';
+  src: url('https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/DeranianPro-51ZRZ.ttf');
+}
+@font-face {
+  font-family: 'Squaremaze';
+  src: url('https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/Squaremaze.ttf');
+}
+@font-face {
+  font-family: 'Tk421';
+  src: url('https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/Tk421HalftoneItalic-rg65y.otf.ttf');
+}
+
+
+
+
+
+
